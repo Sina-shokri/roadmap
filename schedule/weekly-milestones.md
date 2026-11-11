@@ -13,12 +13,12 @@
   - [ ] نصب JDK 21 و IntelliJ IDEA Ultimate یا Community.
   - [ ] سیستم انواع داده‌ها (Data Types)، تفاوت Primitives با Wrapper Classes.
   - [ ] ساختار کنترل و حلقه‌ها، نوشتن متدهای تمیز، مدیریت استثناها (`try-catch-finally`, `checked` vs `unchecked`).
-  - [ ] [مطالعه داکیومنت فاز ۱ جاوا](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/01-java-core-modern/README.md).
+  - [ ] [مطالعه داکیومنت فاز ۱ جاوا](../TRACK_A_BACKEND_JAVA/01-java-core-modern/README.md).
 - **🧠 Track B (الگوریتم و مبانی):**
   - [ ] مفهوم مرتبه بزرگی (Big-O Notation)، پیچیدگی زمانی (Time Complexity) و فضایی (Space Complexity).
   - [ ] تحلیل سناریوهای $O(1)$، $O(\log n)$، $O(n)$، $O(n \log n)$ و $O(n^2)$.
   - [ ] ساختار حافظه در JVM: تفاوت Stack و Heap و هزینه ساخت شیء جدید در حافظه.
-  - [ ] [مطالعه داکیومنت Big-O](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/01-big-o-and-performance/README.md).
+  - [ ] [مطالعه داکیومنت Big-O](../TRACK_B_CS_AND_SYSTEM_DESIGN/01-big-o-and-performance/README.md).
 - **🔗 نقطه اتصال (Synergy):**
   - بنچمارک مقایسه سرعت و مصرف حافظه `int[]` در برابر `Integer[]` با حجم ۱ میلیون داده در جاوا.
 
@@ -32,7 +32,7 @@
 - **🧠 Track B (الگوریتم و مبانی):**
   - [ ] ساختمان داده‌های خطی: آرایه‌های استاتیک، آرایه‌های پویا (Dynamic Arrays) و لیست‌های پیوندی (Singly & Doubly Linked List).
   - [ ] مقایسه هزینه دسترسی تصادفی $O(1)$ با هزینه درج/حذف در ابتدای لیست.
-  - [ ] [مطالعه داکیومنت ساختمان‌داده‌ها](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/02-data-structures-deep-dive/README.md).
+  - [ ] [مطالعه داکیومنت ساختمان‌داده‌ها](../TRACK_B_CS_AND_SYSTEM_DESIGN/02-data-structures-deep-dive/README.md).
 - **🔗 نقطه اتصال (Synergy):**
   - پیاده‌سازی دستی یک `CustomArrayList` جنریک در جاوا و بررسی رشد دینامیک ظرفیت (Capacity Resizing).
 
@@ -43,7 +43,7 @@
   - [ ] جاوا Collections Framework: اینترفیس‌های `List`, `Set`, `Queue`, `Map`.
   - [ ] مقایسه `ArrayList` با `LinkedList`، تفاوت `HashSet` با `TreeSet`، و `HashMap` با `TreeMap`.
   - [ ] قوانین حیاتی قرارداد `equals()` و `hashCode()` و باگ‌های رایج در صورت رعایت نکردن آن.
-  - [ ] [مطالعه داکیومنت Collections](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/02-collections-and-streams/README.md).
+  - [ ] [مطالعه داکیومنت Collections](../TRACK_A_BACKEND_JAVA/02-collections-and-streams/README.md).
 - **🧠 Track B (الگوریتم و مبانی):**
   - [ ] جدول‌های درهم‌سازی (Hash Tables): تابع هش، توزیع یکنواخت، و پدیده تصادم (Collision).
   - [ ] روش‌های حل تصادم: Chaining و Open Addressing.
@@ -62,9 +62,9 @@
   - [ ] الگوریتم‌های جستجو و مرتب‌سازی: Binary Search، Merge Sort و Quick Sort.
   - [ ] الگوی حل مسئله Two Pointers و Sliding Window.
   - [ ] مقایسه پرفورمنس پردازش داده با Stream در برابر حلقه `for` سنتی.
-  - [ ] [مطالعه داکیومنت الگوهای الگوریتمی](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/03-algorithmic-patterns/README.md).
+  - [ ] [مطالعه داکیومنت الگوهای الگوریتمی](../TRACK_B_CS_AND_SYSTEM_DESIGN/03-algorithmic-patterns/README.md).
 - **🛠️ خروجی این فاز:**
-  - [ ] تکمیل و تحویل [پروژه ۱: ابزار CLI بنچمارک ساختمان داده‌ها](file:///Users/amirabaris/Documents/roadmap/projects/project-01-performance-benchmarker/README.md).
+  - [ ] تکمیل و تحویل [پروژه ۱: ابزار CLI بنچمارک ساختمان داده‌ها](../projects/project-01-performance-benchmarker/README.md).
 
 ---
 
@@ -78,7 +78,7 @@
   - [ ] مبانی رابطه داده‌ها (1:1, 1:N, M:N) و نرمال‌سازی (1NF, 2NF, 3NF).
   - [ ] زبان SQL عمیق: دستورات DDL و DML. انواع اتصال‌ها (`INNER JOIN`, `LEFT JOIN`, `FULL JOIN`, `CROSS JOIN`).
   - [ ] گروه‌بندی و تجمیع داده‌ها (`GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`).
-  - [ ] [مطالعه داکیومنت عمیق SQL](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/04-sql-fundamentals-and-databases/README.md).
+  - [ ] [مطالعه داکیومنت عمیق SQL](../TRACK_B_CS_AND_SYSTEM_DESIGN/04-sql-fundamentals-and-databases/README.md).
 - **🔗 نقطه اتصال (Synergy):**
   - نوشتن کوئری‌های پیچیده تحلیلی روی دیتابیس آزمایشی PostgreSQL بدون استفاده از هیچ فریم‌ورکی.
 
@@ -89,7 +89,7 @@
   - [ ] درک فلسفه اسپرینگ: Inversion of Control (IoC) و Dependency Injection (DI).
   - [ ] نحوه کار Beanها و اسکوپ‌های آنها (`@Component`, `@Service`, `@Repository`, `@Autowired`).
   - [ ] ساخت اولین کنترلر REST با `@RestController`, `@GetMapping`, `@PostMapping` و DTOها.
-  - [ ] [مطالعه داکیومنت مقدمات Spring Boot](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/03-spring-boot-essentials/README.md).
+  - [ ] [مطالعه داکیومنت مقدمات Spring Boot](../TRACK_A_BACKEND_JAVA/03-spring-boot-essentials/README.md).
 - **🧠 Track B (پایگاه‌داده و ایندکس):**
   - [ ] ساختار ذخیره‌سازی داده روی دیسک: چرا اسکن کل جدول (Seq Scan) کند است؟
   - [ ] درخت‌های B-Tree و نحوه کار Index در دیتابیس.
@@ -106,7 +106,7 @@
   - [ ] روابط بین جداول در JPA (`@ManyToOne`, `@OneToMany`, `@ManyToMany`).
   - [ ] استفاده از `JpaRepository`، متدهای کوئری‌ساز اتوماتیک و کوئری‌های `@Query` با JPQL و Native SQL.
   - [ ] حل معمای بزرگ معماران جاوا: **رفع چالش N+1 Problem** با `JOIN FETCH` و `EntityGraph`.
-  - [ ] [مطالعه داکیومنت JPA و دیتابیس](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/04-databases-and-jpa/README.md).
+  - [ ] [مطالعه داکیومنت JPA و دیتابیس](../TRACK_A_BACKEND_JAVA/04-databases-and-jpa/README.md).
 - **🧠 Track B (تراکنش‌های ACID و ایزولاسیون):**
   - [ ] اصول چهارگانه ACID (Atomicity, Consistency, Isolation, Durability).
   - [ ] پدیده‌های ناهنجاری هم‌زمانی: Dirty Read, Non-repeatable Read, Phantom Read.
@@ -126,7 +126,7 @@
   - [ ] تکنیک‌های صفحه‌بندی (Pagination): مقایسه Offset-based Pagination با Keyset/Cursor-based Pagination برای جداول میلیونی.
   - [ ] مفاهیم Soft Delete در مقابل Hard Delete و اثرات آن روی ایندکس‌ها.
 - **🛠️ خروجی این فاز:**
-  - [ ] پیاده‌سازی کامل [پروژه ۲: وب‌سرویس REST مدیریت وظایف با PostgreSQL](file:///Users/amirabaris/Documents/roadmap/projects/project-02-task-manager-rest-api/README.md).
+  - [ ] پیاده‌سازی کامل [پروژه ۲: وب‌سرویس REST مدیریت وظایف با PostgreSQL](../projects/project-02-task-manager-rest-api/README.md).
 
 ---
 
@@ -138,7 +138,7 @@
   - [ ] هش کردن امن پسوردها با BCrypt و الگوریتم‌های مدرن.
   - [ ] پیاده‌سازی Stateless Authentication با JSON Web Tokens (Access Token و Refresh Token).
   - [ ] مدیریت نقش‌ها و دسترسی‌ها (RBAC) با `@PreAuthorize`.
-  - [ ] [مطالعه داکیومنت امنیت](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/05-security-and-auth/README.md).
+  - [ ] [مطالعه داکیومنت امنیت](../TRACK_A_BACKEND_JAVA/05-security-and-auth/README.md).
 - **🧠 Track B (مفاهیم امنیت و الگوریتم‌های هش):**
   - [ ] تفاوت Encryption (رمزنگاری متقارن/نامتقارن) با Hashing و Salting.
   - [ ] آسیب‌پذیری‌های رایج وب (OWASP Top 10): SQL Injection, XSS, CSRF, IDOR و راه‌های دفاعی در جاوا.
@@ -171,7 +171,7 @@
   - [ ] متغیرهای اتمیک (`AtomicInteger`)، کلمه کلیدی `volatile` و بلوک `synchronized`.
   - [ ] ابزارهای پیشرفته پکیج `java.util.concurrent`: `ReentrantLock`, `CountDownLatch`, `Semaphore`, `ConcurrentHashMap`.
   - [ ] خطرات بن‌بست (Deadlock) و ۴ شرط گره‌خوردن نیدل‌ها.
-  - [ ] [مطالعه داکیومنت هم‌زمانی](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/05-concurrency-and-threads/README.md).
+  - [ ] [مطالعه داکیومنت هم‌زمانی](../TRACK_B_CS_AND_SYSTEM_DESIGN/05-concurrency-and-threads/README.md).
 - **🔗 نقطه اتصال (Synergy):**
   - تست پایداری موجودی کالا در حین خرید هم‌زمان ۱۰۰ کاربر و جلوگیری از فروش تکراری (Over-selling) با قفل‌های بدبینانه (Pessimistic Locking) در دیتابیس.
 
@@ -182,12 +182,12 @@
   - [ ] تست واحد (Unit Testing) با JUnit 5 و فریم‌ورک ماک‌سازی Mockito.
   - [ ] تست ادغام (Integration Testing) لایه وب با `@WebMvcTest` و MockMvc.
   - [ ] استفاده از کتابخانه بی‌نظیر Testcontainers برای بالا آوردن دیتابیس واقعی PostgreSQL و Redis در تست‌ها.
-  - [ ] [مطالعه داکیومنت تست و پروداکشن](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/06-testing-and-production/README.md).
+  - [ ] [مطالعه داکیومنت تست و پروداکشن](../TRACK_A_BACKEND_JAVA/06-testing-and-production/README.md).
 - **🧠 Track B (الگوهای معماری):**
   - [ ] معماری پیازی و تمیز (Clean Architecture / Hexagonal Architecture).
   - [ ] تفکیک دقیق لایه‌ها و قوانین معکوس‌سازی وابستگی.
 - **🛠️ خروجی این فاز:**
-  - [ ] تکمیل و تحویل [پروژه ۳: سیستم فروشگاهی امن با JWT و ردیس](file:///Users/amirabaris/Documents/roadmap/projects/project-03-secure-ecommerce-platform/README.md).
+  - [ ] تکمیل و تحویل [پروژه ۳: سیستم فروشگاهی امن با JWT و ردیس](../projects/project-03-secure-ecommerce-platform/README.md).
 
 ---
 
@@ -222,11 +222,11 @@
   - [ ] استراتژی‌های مقیاس‌پذیری پایگاه‌داده: Read Replicas، دیتابیس شاردینگ (Horizontal Sharding) و پارتیشن‌بندی.
   - [ ] طراحی الگوهای توزیع‌شده: Circuit Breaker (Resilience4j)، Rate Limiting (با Bucket4j یا Redis).
   - [ ] الگوی تراکنش‌های توزیع‌شده (Saga Pattern: Choreography vs Orchestration).
-  - [ ] [مطالعه داکیومنت جامع System Design](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/06-system-design-mastery/README.md).
+  - [ ] [مطالعه داکیومنت جامع System Design](../TRACK_B_CS_AND_SYSTEM_DESIGN/06-system-design-mastery/README.md).
 
 ---
 
 ### هفته ۱۶: تکمیل پروژه پایانی و جمع‌بندی رزومه
 - **🛠️ خروجی نهایی:**
-  - [ ] راه‌اندازی و اجرای [پروژه ۴: پلتفرم توزیع‌شده پردازش رویدادها با Kafka و Docker](file:///Users/amirabaris/Documents/roadmap/projects/project-04-scalable-event-system/README.md).
+  - [ ] راه‌اندازی و اجرای [پروژه ۴: پلتفرم توزیع‌شده پردازش رویدادها با Kafka و Docker](../projects/project-04-scalable-event-system/README.md).
   - [ ] آماده‌سازی مستندات و ریپازیتوری‌های گیت‌هاب جهت ارائه در رزومه و مصاحبه‌های کاری.

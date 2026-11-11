@@ -32,26 +32,26 @@
 
 ## 📂 ساختار مخزن (Repository Structure)
 
-- 📅 [**برنامه هفتگی و گام‌های همگام‌سازی (Weekly Schedule)**](file:///Users/amirabaris/Documents/roadmap/schedule/weekly-milestones.md): راهنمای مرحله‌به‌مرحله با چک‌لیست برای مدیریت زمان مطالعه.
-- 🚀 [**مسیر A: مهندسی کاربردی جاوا (Track A)**](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/README.md):
-  - [01. هسته جاوا مدرن (Java Core 21)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/01-java-core-modern/README.md)
-  - [02. کالکشن‌ها و استریم‌ها (Collections & Streams)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/02-collections-and-streams/README.md)
-  - [03. اصول اسپرینگ بوت ۳ (Spring Boot Essentials)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/03-spring-boot-essentials/README.md)
-  - [04. دیتابیس و JPA (Databases & JPA)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/04-databases-and-jpa/README.md)
-  - [05. امنیت و احراز هویت (Security & Auth)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/05-security-and-auth/README.md)
-  - [06. تست‌نویسی و آماده‌سازی پروداکشن (Testing & Production)](file:///Users/amirabaris/Documents/roadmap/TRACK_A_BACKEND_JAVA/06-testing-and-production/README.md)
-- 🧠 [**مسیر B: مبانی، الگوریتم، SQL و طراحی سیستم (Track B)**](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/README.md):
-  - [01. نماد Big-O و تحلیل کارایی (Big-O & Performance)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/01-big-o-and-performance/README.md)
-  - [02. ساختمان‌داده‌ها با تمرکز بر پیاده‌سازی در جاوا (Data Structures Deep Dive)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/02-data-structures-deep-dive/README.md)
-  - [03. الگوهای الگوریتمی و حل مسئله (Algorithmic Patterns)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/03-algorithmic-patterns/README.md)
-  - [04. اصول عمیق SQL و معماری دیتابیس (SQL Fundamentals & Deep Dive)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/04-sql-fundamentals-and-databases/README.md)
-  - [05. هم‌زمانی و چندنخی (Concurrency & Threads)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/05-concurrency-and-threads/README.md)
-  - [06. اصول طراحی سیستم‌های مقیاس‌پذیر (System Design Mastery)](file:///Users/amirabaris/Documents/roadmap/TRACK_B_CS_AND_SYSTEM_DESIGN/06-system-design-mastery/README.md)
-- 🛠️ [**پروژه‌های عملی (Hands-on Projects)**](file:///Users/amirabaris/Documents/roadmap/projects/README.md):
-  - [پروژه ۱: ابزار CLI بنچمارک ساختمان‌داده‌ها و الگوریتم‌ها](file:///Users/amirabaris/Documents/roadmap/projects/project-01-performance-benchmarker/README.md)
-  - [پروژه ۲: وب‌سرویس REST مدیریت وظایف با Spring Boot و PostgreSQL](file:///Users/amirabaris/Documents/roadmap/projects/project-02-task-manager-rest-api/README.md)
-  - [پروژه ۳: سیستم فروشگاهی امن با JWT، ردیس و تراکنش‌های بانکی](file:///Users/amirabaris/Documents/roadmap/projects/project-03-secure-ecommerce-platform/README.md)
-  - [پروژه ۴: سیستم توزیع‌شده پردازش سفارشات با Kafka و داکر](file:///Users/amirabaris/Documents/roadmap/projects/project-04-scalable-event-system/README.md)
+- 📅 [**برنامه هفتگی و گام‌های همگام‌سازی (Weekly Schedule)**](./schedule/weekly-milestones.md): راهنمای مرحله‌به‌مرحله با چک‌لیست برای مدیریت زمان مطالعه.
+- 🚀 [**مسیر A: مهندسی کاربردی جاوا (Track A)**](./TRACK_A_BACKEND_JAVA/README.md):
+  - [01. هسته جاوا مدرن (Java Core 21)](./TRACK_A_BACKEND_JAVA/01-java-core-modern/README.md)
+  - [02. کالکشن‌ها و استریم‌ها (Collections & Streams)](./TRACK_A_BACKEND_JAVA/02-collections-and-streams/README.md)
+  - [03. اصول اسپرینگ بوت ۳ (Spring Boot Essentials)](./TRACK_A_BACKEND_JAVA/03-spring-boot-essentials/README.md)
+  - [04. دیتابیس و JPA (Databases & JPA)](./TRACK_A_BACKEND_JAVA/04-databases-and-jpa/README.md)
+  - [05. امنیت و احراز هویت (Security & Auth)](./TRACK_A_BACKEND_JAVA/05-security-and-auth/README.md)
+  - [06. تست‌نویسی و آماده‌سازی پروداکشن (Testing & Production)](./TRACK_A_BACKEND_JAVA/06-testing-and-production/README.md)
+- 🧠 [**مسیر B: مبانی، الگوریتم، SQL و طراحی سیستم (Track B)**](./TRACK_B_CS_AND_SYSTEM_DESIGN/README.md):
+  - [01. نماد Big-O و تحلیل کارایی (Big-O & Performance)](./TRACK_B_CS_AND_SYSTEM_DESIGN/01-big-o-and-performance/README.md)
+  - [02. ساختمان‌داده‌ها با تمرکز بر پیاده‌سازی در جاوا (Data Structures Deep Dive)](./TRACK_B_CS_AND_SYSTEM_DESIGN/02-data-structures-deep-dive/README.md)
+  - [03. الگوهای الگوریتمی و حل مسئله (Algorithmic Patterns)](./TRACK_B_CS_AND_SYSTEM_DESIGN/03-algorithmic-patterns/README.md)
+  - [04. اصول عمیق SQL و معماری دیتابیس (SQL Fundamentals & Deep Dive)](./TRACK_B_CS_AND_SYSTEM_DESIGN/04-sql-fundamentals-and-databases/README.md)
+  - [05. هم‌زمانی و چندنخی (Concurrency & Threads)](./TRACK_B_CS_AND_SYSTEM_DESIGN/05-concurrency-and-threads/README.md)
+  - [06. اصول طراحی سیستم‌های مقیاس‌پذیر (System Design Mastery)](./TRACK_B_CS_AND_SYSTEM_DESIGN/06-system-design-mastery/README.md)
+- 🛠️ [**پروژه‌های عملی (Hands-on Projects)**](./projects/README.md):
+  - [پروژه ۱: ابزار CLI بنچمارک ساختمان‌داده‌ها و الگوریتم‌ها](./projects/project-01-performance-benchmarker/README.md)
+  - [پروژه ۲: وب‌سرویس REST مدیریت وظایف با Spring Boot و PostgreSQL](./projects/project-02-task-manager-rest-api/README.md)
+  - [پروژه ۳: سیستم فروشگاهی امن با JWT، ردیس و تراکنش‌های بانکی](./projects/project-03-secure-ecommerce-platform/README.md)
+  - [پروژه ۴: سیستم توزیع‌شده پردازش سفارشات با Kafka و داکر](./projects/project-04-scalable-event-system/README.md)
 
 ---
 

@@ -30,10 +30,10 @@
 
 | پروژه | سطح مهارت | تکنولوژی‌های اصلی | خروجی ملموس |
 | :--- | :--- | :--- | :--- |
-| **[پروژه ۱: ابزار CLI بنچمارک](file:///Users/amirabaris/Documents/roadmap/projects/project-01-performance-benchmarker/README.md)** | فونداسیون | Java 21, Generics, System.nanoTime, JMH | برنامه خط فرمان جهت مقایسه سرعت و حافظه دیتا استراکچرها با ورودی‌های میلیونی |
-| **[پروژه ۲: وب‌سرویس مدیریت وظایف](file:///Users/amirabaris/Documents/roadmap/projects/project-02-task-manager-rest-api/README.md)** | جونیور | Spring Boot 3, Spring Data JPA, PostgreSQL, Flyway, Swagger | سیستم RESTful کامل با لایه‌بندی اصولی، ایندکس‌های بهینه دیتابیس و Pagination |
-| **[پروژه ۳: سیستم فروشگاهی امن](file:///Users/amirabaris/Documents/roadmap/projects/project-03-secure-ecommerce-platform/README.md)** | میدلول | Spring Security 6, JWT, Redis, Testcontainers, JUnit 5 | فروشگاه اینترنتی با احراز هویت توکنی، سبد خرید کش‌شده، موجودی هم‌زمان و تست‌های خودکار |
-| **[پروژه ۴: پلتفرم ایونت‌محور سفارشات](file:///Users/amirabaris/Documents/roadmap/projects/project-04-scalable-event-system/README.md)** | پیشرفته | Apache Kafka, Docker Compose, Actuator, Resilience4j | سیستم چندسرویسی ناهمگام برای ثبت سفارش، کسر انبار، صدور فاکتور و صف خطای DLT |
+| **[پروژه ۱: ابزار CLI بنچمارک](./project-01-performance-benchmarker/README.md)** | فونداسیون | Java 21, Generics, System.nanoTime, JMH | برنامه خط فرمان جهت مقایسه سرعت و حافظه دیتا استراکچرها با ورودی‌های میلیونی |
+| **[پروژه ۲: وب‌سرویس مدیریت وظایف](./project-02-task-manager-rest-api/README.md)** | جونیور | Spring Boot 3, Spring Data JPA, PostgreSQL, Flyway, Swagger | سیستم RESTful کامل با لایه‌بندی اصولی، ایندکس‌های بهینه دیتابیس و Pagination |
+| **[پروژه ۳: سیستم فروشگاهی امن](./project-03-secure-ecommerce-platform/README.md)** | میدلول | Spring Security 6, JWT, Redis, Testcontainers, JUnit 5 | فروشگاه اینترنتی با احراز هویت توکنی، سبد خرید کش‌شده، موجودی هم‌زمان و تست‌های خودکار |
+| **[پروژه ۴: پلتفرم ایونت‌محور سفارشات](./project-04-scalable-event-system/README.md)** | پیشرفته | Apache Kafka, Docker Compose, Actuator, Resilience4j | سیستم چندسرویسی ناهمگام برای ثبت سفارش، کسر انبار، صدور فاکتور و صف خطای DLT |
 
 ---
 
